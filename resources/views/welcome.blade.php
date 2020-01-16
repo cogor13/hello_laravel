@@ -87,7 +87,7 @@
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">Nwes</a>
+                    <a href="https://laravel-news.com">新闻</a>
                     <a href="https://blog.laravel.com">博客</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">其他</a>
